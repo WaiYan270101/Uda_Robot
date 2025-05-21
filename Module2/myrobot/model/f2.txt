@@ -1,0 +1,1 @@
+This directory contains model files of the robots to be used in simulation.
