@@ -8,4 +8,5 @@ source ~/.bashrc
 
 source devel/setup.bash
 
-
+// Cloning the simple_arm package
+git clone -b first_interaction https://github.com/udacity/RoboND-simple_arm/ simple_arm
